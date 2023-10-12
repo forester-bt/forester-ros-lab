@@ -709,7 +709,6 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
-
 ##### Qt
 # C++ objects and libs
 *.slo
