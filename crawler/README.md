@@ -1,9 +1,10 @@
-# Just a demo project of vacuum cleaner. 
+# Just a demo project of crawler. 
 To see how the system works, there is a learning project.
 
 ## Description
 
-Vacuum cleaner. Should traverse the given space. 
+Crawler. Should traverse the given space. 
+Can be a base for amr or vacuum cleaner.
 
 ### Sensors
  Lidar
@@ -13,3 +14,4 @@ Vacuum cleaner. Should traverse the given space.
 - Sensors
 - Moving and Planning - SLAM (MoveIt2)
 - Simulation
+
