@@ -3,15 +3,35 @@ To see how the system works, there is a learning project.
 
 ## Description
 
-Crawler. Should traverse the given space. 
-Can be a base for amr or vacuum cleaner.
+Crawler. Should traverse the given space.
+The robot collects the information about the space including the visited spots.
 
 ### Sensors
- Lidar
+ - Lidar1 
 
-## Areas
+### Areas
+ - Moving (Planning) -> MoveIt2
+ - Sensors information perceptions
 
-- Sensors
-- Moving and Planning - SLAM (MoveIt2)
-- Simulation
+
+## Components
+
+### Models
+
+ - Robot model 
+ - World model
+
+
+## Programs
+
+### Simulation
+Gazebo
+ - sdf
+
+### Planning
+MoveIt2
+
+### BackBone
+Ros2
+
 
