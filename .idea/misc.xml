@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.10 (forester-ros-lab)" />
+  </component>
   <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$/demo/pick_and_place/ws/src/pick_and_place_application">
     <contentRoot DIR="$PROJECT_DIR$" />
   </component>
